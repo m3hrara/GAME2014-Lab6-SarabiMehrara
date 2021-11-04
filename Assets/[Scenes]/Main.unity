@@ -1183,11 +1183,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5c8573c4ecc155c4fb9aec0cef18ed9a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  horizontalForce: 0
-  verticalForce: 0
+  horizontalForce: 10
+  verticalForce: 15
   isGrounded: 0
   groundOrigin: {fileID: 737062957}
-  groundRadius: 0
+  groundRadius: 0.4
   groundLayerMask:
     serializedVersion: 2
     m_Bits: 64
